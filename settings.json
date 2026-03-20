@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "HalaMadrid-777.aternos.me",
+    "ip": "hairtail.aternos.host",
     "port": 35032,
     "version": "",
     "try-creative": false
