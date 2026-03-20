@@ -6,15 +6,15 @@
     "type": "offline"
   },
   "server": {
-    "ip": "hairtail.aternos.host",
-    "port": 35032,
-    "version": "",
+    "ip": "MY_SMP_22.aternos.me",
+    "port": 42479,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
     "enabled": true,
     "x": 0,
-    "y": 100,
+    "y": 64,
     "z": 0
   },
   "utils": {
@@ -27,13 +27,13 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "",
+        
+        
       ]
     },
     "chat-log": true,
